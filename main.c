@@ -13,8 +13,8 @@ Write your code in this editor and press "Run" button to compile and execute it.
 
 int main() {
     int mat[TAM][TAM] = {
-        { 1,  2,  3,  4,  5},
-        { 6,  7,  8,  9, 10},
+        {1, 2, 3, 4, 5},
+        {6, 7, 8, 9, 10},
         {11, 12, 13, 14, 15},
         {16, 17, 18, 19, 20},
         {21, 22, 23, 24, 25}
